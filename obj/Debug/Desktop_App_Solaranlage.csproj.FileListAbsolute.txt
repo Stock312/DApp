@@ -1,0 +1,10 @@
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\bin\Debug\Desktop_App_Solaranlage.exe.config
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\bin\Debug\Desktop_App_Solaranlage.exe
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\bin\Debug\Desktop_App_Solaranlage.pdb
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\obj\Debug\Desktop_App_Solaranlage.csprojAssemblyReference.cache
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\obj\Debug\Desktop_App_Solaranlage.frmSolarpanel.resources
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\obj\Debug\Desktop_App_Solaranlage.Properties.Resources.resources
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\obj\Debug\Desktop_App_Solaranlage.csproj.GenerateResource.cache
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\obj\Debug\Desktop_App_Solaranlage.csproj.CoreCompileInputs.cache
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\obj\Debug\Desktop_App_Solaranlage.exe
+H:\LF10b\Desktop_App\Desktop_App_Solaranlage\obj\Debug\Desktop_App_Solaranlage.pdb
